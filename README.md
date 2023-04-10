@@ -1,5 +1,6 @@
-# News
-News on your Terminal (pre-requisites: zsh, lolcat, curl, xmlstarlet).  
+# News on your Terminal
+
+**Pre-requisites:** zsh, lolcat, curl, xmlstarlet.  
 
 **Step 0:** Install zsh, lolcat, curl, xmlstarlet ( google them out :P ).  
 **Step 1:** Open .zshrc file with the following command in terminal.  
