@@ -146,3 +146,8 @@ source ~/.zshrc
 ```
 news
 ```
+or, specify the menu number (starts from 1)  
+```
+news 3
+```
+**news 3** shows BBC headlines with URLs, in this example.
