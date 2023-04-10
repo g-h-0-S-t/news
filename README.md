@@ -10,7 +10,7 @@
 open ~/.zshrc
 ```
 **Step 2:** Add the following at the end of your .zshrc file.  
-You can edit the **newsSourcess** list and add more sources in the **"Menu Title|URL"** format.  
+You can edit the **newsSourcess** list and add more sources in the **"Menu Title|URL-of-RSS"** format.  
 ```
 news() {
 	cmdArg="$1" 
