@@ -10,6 +10,7 @@
 ```
 open ~/.zshrc
 ```
+
 **Step 2:** Add the following at the end of your .zshrc file.  
 You can edit the **newsSourcess** list and add more sources in the **"Menu Title|URL-of-RSS"** format.  
 ```
@@ -139,10 +140,12 @@ news() {
 	displayNewsMenu
 }
 ```
+
 **Step 3:** Save and exit the file and run the following command in your Terminal.  
 ```
 source ~/.zshrc
 ```
+
 **Step 4:** Call the news command from the terminal.  
 ```
 news
