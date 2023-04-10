@@ -1,11 +1,11 @@
 # news
-News on your Terminal (pre-requisites: zsh, lolcat, curl)...
-
-Step 1: Open .zshrc file with the following command in terminal
+News on your Terminal (pre-requisites: zsh, lolcat, curl, xmlstarlet)...
+**Step 0:** Install zsh, lolcat, curl, xmlstarlet ( google them out :P ).
+**Step 1:** Open .zshrc file with the following command in terminal
 ```
 open ~/.zshrc
 ```
-Step 2: Add the following at the end of your .zshrc file.
+**Step 2:** Add the following at the end of your .zshrc file.
 ```
 news() {
 	cmdArg="$1" 
@@ -133,11 +133,11 @@ news() {
 	displayNewsMenu
 }
 ```
-Step 3: Save and exit the file and run the following command in your Terminal.
+**Step 3:** Save and exit the file and run the following command in your Terminal.
 ```
 source ~/.zshrc
 ```
-Step 4: Call the news command from the terminal.
+**Step 4:** Call the news command from the terminal.
 ```
 news
 ```
