@@ -6,10 +6,12 @@
 
 **Step 0:** Install zsh, lolcat, curl, xmlstarlet ( google them out :P ).  
   
+  
 **Step 1:** Open .zshrc file with the following command in terminal.  
 ```
 open ~/.zshrc
 ```
+  
   
 **Step 2:** Add the following at the end of your .zshrc file.  
 You can edit the **newsSourcess** list and add more sources in the **"Menu Title|URL-of-RSS"** format.  
@@ -141,10 +143,12 @@ news() {
 }
 ```
   
+  
 **Step 3:** Save and exit the file and run the following command in your Terminal.  
 ```
 source ~/.zshrc
 ```
+  
   
 **Step 4:** Call the news command from the terminal.  
 ```
