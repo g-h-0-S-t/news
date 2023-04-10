@@ -1,4 +1,4 @@
-# news
+# News
 News on your Terminal (pre-requisites: zsh, lolcat, curl, xmlstarlet).  
 
 **Step 0:** Install zsh, lolcat, curl, xmlstarlet ( google them out :P ).  
