@@ -1,3 +1,5 @@
+<img src="https://antigotimes.com/wp-content/uploads/2014/12/writinghand.png" width="200" title="Journalism Utilities" alt="Journalism Utilities" />  
+
 # News on your Terminal
 
 **Pre-requisites:** zsh, lolcat, curl, xmlstarlet.  
